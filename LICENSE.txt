@@ -1,0 +1,5 @@
+Copyright (c) 2026 David Kellam
+
+All rights reserved.
+
+This project, it's source code, assets, and binaries may not be copied, modified, distributed, or used without explicit permission from the author.
